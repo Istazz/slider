@@ -1,0 +1,11 @@
+commit 5e61adf7a90633cd6c388ed58c3d9d39e8bdc59c
+Author: Angelo Stazzi <angelostazzi@Angelos-MacBook-Pro.local>
+Date:   Fri Aug 26 10:59:40 2016 -0300
+
+    tratando de hacer un cambio para ejercitar los comandos de el terminal
+
+commit f7636cb3be44e155c612aa559aeced3c8fa88d73
+Author: Angelo Stazzi <angelostazzi@Angelos-MacBook-Pro.local>
+Date:   Fri Aug 26 10:55:54 2016 -0300
+
+    agregando todos los archivos al proyecto
